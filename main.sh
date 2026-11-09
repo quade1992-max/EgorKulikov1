@@ -1,0 +1,1 @@
+echo 'Main production script'
